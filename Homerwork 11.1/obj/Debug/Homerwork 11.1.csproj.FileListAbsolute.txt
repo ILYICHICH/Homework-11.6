@@ -1,0 +1,7 @@
+D:\Project C#\Homerwork 11.1\Homerwork 11.1\bin\Debug\Homerwork 11.1.exe.config
+D:\Project C#\Homerwork 11.1\Homerwork 11.1\bin\Debug\Homerwork 11.1.exe
+D:\Project C#\Homerwork 11.1\Homerwork 11.1\bin\Debug\Homerwork 11.1.pdb
+D:\Project C#\Homerwork 11.1\Homerwork 11.1\obj\Debug\Homerwork 11.1.csproj.CoreCompileInputs.cache
+D:\Project C#\Homerwork 11.1\Homerwork 11.1\obj\Debug\Homerwork 11.1.exe
+D:\Project C#\Homerwork 11.1\Homerwork 11.1\obj\Debug\Homerwork 11.1.pdb
+D:\Project C#\Homerwork 11.1\Homerwork 11.1\obj\Debug\Homerwork 11.1.csprojResolveAssemblyReference.cache
